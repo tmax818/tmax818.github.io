@@ -2,13 +2,15 @@
 title: Tyler Maxwell
 header-img: img/home-bg.png
 email: tylermaxwell661@gmail.com
-copyright_name: tmax818
+copyright_name: Tyler Maxwell
 description: > # this means to ignore newlines until "baseurl:"
   Teaching the world to code...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: tmax818
 github_username: tmax818
 learn_profile: tmax818
+facebook_username: tyler.maxwell.5076
+linkedin_username: tylermaxwell
 email_username: tylermaxwell661@gmail.com
 
 # Build settings
