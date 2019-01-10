@@ -1,18 +1,19 @@
 ---
 layout: post
-title:      "'this' Sucks!!!"
-date:       2018-10-16 20:21:20 +0000
-permalink:  this_sucks
+title: "'this' Sucks!!!"
+date: 2018-10-16 20:21:20 +0000
+permalink: this_sucks
+excerpt_separator: <!--more-->
 ---
-
 
 Not really... I thought 'this' would be easy. It seemed too easy. I finished my Rails project and I thought, "all I have to do is add a JavaScript front-end to this!"
 
+<!--more-->
 <iframe src="https://giphy.com/embed/RJOYRvEEeMlby" width="480" height="206" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/indiana-jones-RJOYRvEEeMlby"></a></p>
 
 I have to say that looking back on this experience, I have learned as much about myself as I have about web development. I am in a unique position as I write this. I am almost done! I can see the finish line!
 
-So, what is the 'this' of my title? When you don't know what the hell you're talking about, it's best to quote someone who does. Do yourself a huge favor. Check out [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) on Udemy. Don't pay $175 for it. It goes on sale all the time for ten bucks. You can watch the first three hours of the course for free on YouTube and there is a link in the curriculum. The following has been 'borrowed' from this course.
+So, what is the 'this' of my title? When you don't know what the hell you're talking about, it's best to quote someone who does. Do yourself a huge favor. Check out [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) on Udemy. Don't pay \$175 for it. It goes on sale all the time for ten bucks. You can watch the first three hours of the course for free on YouTube and there is a link in the curriculum. The following has been 'borrowed' from this course.
 
 ```JavaScript
 // filename: app.js
@@ -78,4 +79,3 @@ console.log(c); // undefined  (4)
 A local execution context can see its outer execution context, but not the other way around. That is why (4) or the last `console.log(c)` is `undefined`.
 
 One may ask what this has to do with my Rails/JavaScript project. My point is that the transition from Ruby to JavaScript can be a difficult one. Ruby just works. It is designed for 'programmer happiness'. Ruby is like the guitar. It's easy to learn, but difficult to master. JavaScript is just plain hard! However, the efforts required to learn it pay off in the end.
-

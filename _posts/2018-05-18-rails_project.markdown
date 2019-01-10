@@ -1,12 +1,14 @@
 ---
 layout: post
-title:      "Rails Project"
-date:       2018-05-18 19:55:46 +0000
-permalink:  rails_project
+title: "Rails Project"
+date: 2018-05-18 19:55:46 +0000
+permalink: rails_project
+excerpt_separator: <!--more-->
 ---
 
-
 This project scared the hell out of me. I use the past tense in the last sentence with a bit of trepidation. As I move into this stage of my web development learning journey, I am experiencing the [imposture syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) with an intensity I struggle to characterize in words.
+
+<!--more-->
 
 I want to talk about my procedure in completing this project. I started with the obligatory attendance of all "project prep" study-group I could attend. What I found most terrifying was the statement that my evaluator would be deciding whether or not they would **"hire me as a entry-level web developer."**
 
@@ -25,4 +27,3 @@ requirement. I felt like I would never put a check in that damn box! As of this 
 My overall strategy involved going step by step through the requirements. I have one more to go! My mantra through the whole process was: Baby Steps!
 
 <div style="width:100%;height:0;padding-bottom:78%;position:relative;"><iframe src="https://giphy.com/embed/zRyF8jyfXhgac" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bill-murray-zRyF8jyfXhgac">via GIPHY</a></p>
-
