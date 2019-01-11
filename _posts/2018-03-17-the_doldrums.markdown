@@ -4,6 +4,7 @@ title: "The Doldrums"
 date: 2018-03-17 12:11:00 +0000
 permalink: the_doldrums
 excerpt_separator: <!--more-->
+tags: [Flatiron]
 ---
 
 Every day when I sign in, I scroll down to the bottom of my page and check my "gauges."

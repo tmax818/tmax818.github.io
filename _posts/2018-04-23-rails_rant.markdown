@@ -4,6 +4,7 @@ title: "Rails Rant"
 date: 2018-04-23 13:21:02 +0000
 permalink: rails_rant
 excerpt_separator: <!--more-->
+tags: [Flatiron]
 ---
 
 I have to start with a confession; I love Rails. It’s interesting how some of the most powerful ideas reduce to timeless and simple concepts.<!--more--> A place for everything, and everything in its place. This seems to be how best to understand the convention over configuration concept. Having a strong underlying structure, a solid foundation, allows for a superstructure that is awe inspiring. It is said that all good writers must have a through understanding of grammar and principles of composition; you have to know what the rules are before you can break them effectively.

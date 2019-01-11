@@ -4,6 +4,7 @@ title: "'this' Sucks!!!"
 date: 2018-10-16 20:21:20 +0000
 permalink: this_sucks
 excerpt_separator: <!--more-->
+tags: [Flatiron]
 ---
 
 Not really... I thought 'this' would be easy. It seemed too easy. I finished my Rails project and I thought, "all I have to do is add a JavaScript front-end to this!"

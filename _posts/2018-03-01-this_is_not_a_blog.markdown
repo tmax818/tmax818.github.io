@@ -4,6 +4,7 @@ title: "This is not a blog ..."
 date: 2018-03-01 17:21:44 +0000
 permalink: this_is_not_a_blog
 excerpt_separator: <!--more-->
+tags: [Flatiron]
 ---
 
 I want to write about Object Oriented Programming (OOP). This is where most people (including myself) get tripped up. I am by no means an expert, but the other day I felt something click.<!--more--> I was thinking about the videos and the lesson on the topic. The lesson contained an image of one of my favorite paintings by my favorite artist.

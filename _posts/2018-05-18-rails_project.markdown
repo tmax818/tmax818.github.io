@@ -4,6 +4,7 @@ title: "Rails Project"
 date: 2018-05-18 19:55:46 +0000
 permalink: rails_project
 excerpt_separator: <!--more-->
+tags: [Flatiron]
 ---
 
 This project scared the hell out of me. I use the past tense in the last sentence with a bit of trepidation. As I move into this stage of my web development learning journey, I am experiencing the [imposture syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) with an intensity I struggle to characterize in words.

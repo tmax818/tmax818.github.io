@@ -4,6 +4,7 @@ title: "Gnōthi Seauton"
 date: 2018-01-26 13:52:32 +0000
 permalink: gn_thi_seauton
 excerpt_separator: <!--more-->
+tags: [Flatiron]
 ---
 
 _Know thyself _- transliteration from Greek courtesy of _Wikipedia_. I wrote another draft of this blog attempting to answer the question: Why did I decide to study programming? I decided that no one really cares why some old bald guy in California decided to study programming.

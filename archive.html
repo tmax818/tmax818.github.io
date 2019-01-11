@@ -1,0 +1,21 @@
+---
+layout: page
+title: Archive
+header-img: ""
+permalink: /archive
+---
+
+{% for tag in site.tags %}
+
+<h3>{{ tag[0]}}</h3>
+
+{% for post in tag[1] %}
+<div>
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <h5>{{ post.title }}</h5>
+
+    <hr />
+    {% endfor %}
+  </a>
+</div>
+{% endfor %}

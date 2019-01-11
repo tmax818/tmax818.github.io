@@ -4,6 +4,7 @@ title: "Sinatra Wiki Project"
 date: 2018-04-02 11:53:29 +0000
 permalink: sinatra_wiki_project
 excerpt_separator: <!--more-->
+tags: [Flatiron]
 ---
 
 My Sinatra Project is a wiki application based on a suggestion in this book. Andy Hunt is also the co-author of _The Pragmatic Programmer: From Journeyman to Master,_ which has over 250 five-star reviews on Amazon.
