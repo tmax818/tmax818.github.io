@@ -2,7 +2,6 @@
 layout: post
 title: "This is not a blog ..."
 date: 2018-03-01 17:21:44 +0000
-permalink: this_is_not_a_blog
 excerpt_separator: <!--more-->
 tags: [Flatiron]
 ---

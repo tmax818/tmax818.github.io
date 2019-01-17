@@ -2,7 +2,6 @@
 layout: post
 title: "Rails Rant"
 date: 2018-04-23 13:21:02 +0000
-permalink: rails_rant
 excerpt_separator: <!--more-->
 tags: [Flatiron]
 ---

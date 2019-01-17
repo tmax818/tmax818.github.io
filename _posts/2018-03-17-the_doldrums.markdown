@@ -2,7 +2,6 @@
 layout: post
 title: "The Doldrums"
 date: 2018-03-17 12:11:00 +0000
-permalink: the_doldrums
 excerpt_separator: <!--more-->
 tags: [Flatiron]
 ---

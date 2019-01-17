@@ -4,26 +4,7 @@ header-img: "img/home-bg.png"
 permalink: /
 ---
 
-<div class="jumbotron">
-  <img src="img/grav.png" alt="" class="img-thumbnail" />
-  <h1 class="display-4">Hello, world!</h1>
-  <p class="lead">
-    My name is Tyler Maxwell and I am currently seeking employment as a web
-    developer. I specialize in Sinatra, Rails, and React.
-  </p>
-  <hr class="my-4" />
-  <p>
-    For more information about me and to view my portfolio, please click the
-    button below. Thank you in advance for your inerest and I look forward to
-    speaking with you.
-  </p>
-  <p class="lead">
-    <a class="btn btn-primary btn-lg center" href="#" role="button"
-      >Portfolio</a
-    >
-  </p>
-</div>
-{% for post in paginator.posts %}
+{% include jumbotron.html %} {% for post in paginator.posts %}
 <div class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl }}">
     <h2 class="post-title">{{ post.title }}</h2>
@@ -33,8 +14,7 @@ permalink: /
   </a>
   {{ post.excerpt }}
   <p class="post-meta">
-    Posted by {% if site.author %}{{ site.author }}{% else %}{{
-    site.github_username }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+    Posted by {{ site.author }} on {{ post.date | date: "%B %-d, %Y" }}
   </p>
 </div>
 <hr />

@@ -2,7 +2,6 @@
 layout: post
 title: "Gnōthi Seauton"
 date: 2018-01-26 13:52:32 +0000
-permalink: gn_thi_seauton
 excerpt_separator: <!--more-->
 tags: [Flatiron]
 ---

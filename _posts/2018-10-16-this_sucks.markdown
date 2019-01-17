@@ -2,7 +2,6 @@
 layout: post
 title: "'this' Sucks!!!"
 date: 2018-10-16 20:21:20 +0000
-permalink: this_sucks
 excerpt_separator: <!--more-->
 tags: [Flatiron]
 ---

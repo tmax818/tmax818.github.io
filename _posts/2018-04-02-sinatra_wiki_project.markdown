@@ -2,7 +2,6 @@
 layout: post
 title: "Sinatra Wiki Project"
 date: 2018-04-02 11:53:29 +0000
-permalink: sinatra_wiki_project
 excerpt_separator: <!--more-->
 tags: [Flatiron]
 ---

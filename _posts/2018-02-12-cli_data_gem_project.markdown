@@ -2,7 +2,6 @@
 layout: post
 title: "CLI Data Gem Project"
 date: 2018-02-12 16:37:45 +0000
-permalink: cli_data_gem_project
 excerpt_separator: <!--more-->
 tags: [Flatiron]
 ---
