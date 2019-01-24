@@ -4,7 +4,7 @@ title: "Start Here"
 date: 2019-01-16 13:52:32 +0000
 excerpt_separator: <!--more-->
 tags: [Introduction]
-permalink: /start_here
+permalink: start_here
 ---
 
 Learning to code not only changed my life, it may have saved it.
