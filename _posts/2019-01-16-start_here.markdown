@@ -21,7 +21,7 @@ In these introductory posts, I will elaborate on my purpose for writing yet anot
 
 So, why another coding blog? A more detailed statement can be found on my [website](http://www.tylermaxwell.co). My short answer is that I care deeply about all three of my readers listed above. By serving readers 1 and 2, I hope to enhance and improve reader number 3 and make him a better coder and a better person.
 
-In all honesty, reader number 2 is the one I care about most. Serving her is the only way I can serve and truly improve readers 1 and 3. The first resource I want to mention is the [Learn Enough](https://www.learnenough.com/) site devloped by, in my view, a pillar of the Ruby community, [Michael Hartl](https://www.michaelhartl.com/). The main title on the Learn Enough website says, "Tech is the new literacy". I believe that this is true. I love the following quote from [Max Koretskyi's](https://twitter.com/maxim_koretskyi) twitter page:
+In all honesty, reader number 2 is the one I care about most. Serving her is the only way I can serve and truly improve readers 1 and 3. The first resource I want to mention is the [Learn Enough](https://www.learnenough.com/) site developed by, in my view, a pillar of the Ruby community, [Michael Hartl](https://www.michaelhartl.com/). The main title on the Learn Enough website says, "Tech is the new literacy". I believe that this is true. I love the following quote from [Max Koretskyi's](https://twitter.com/maxim_koretskyi) twitter page:
 
 > Work hard to get what you want.
 > When you get it, pull someone else up.
