@@ -18,3 +18,4 @@ This a list of resources I have found useful while learning to code.<!--more-->I
 ## Paid
 
 - [Treehouse](https://teamtreehouse.com/) - This is the first service I paid for. It is very beginner friendly, but it doesn't skimp on the content. They are a bit slow in producing updated courses.
+- [in Learning](https://www.linkedin.com/learning) - This one is on my bookmark bar! Formerly Lynda.com, this has everything you can imagine. Highly recommended!
