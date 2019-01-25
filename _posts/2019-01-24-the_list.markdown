@@ -1,0 +1,20 @@
+---
+layout: post
+title: "The List"
+date: 2019-01-24 13:52:32 +0000
+header-img: "img/list.jpg"
+excerpt_separator: <!--more-->
+tags: [Introduction, Coding, Lists]
+permalink: the_list
+---
+
+This a list of resources I have found useful while learning to code.<!--more-->I will start with the free services. Some of the services have a free portion or ask for donations. The paid section will include only those resources that require a subscription fee.
+
+## Free
+
+- [Flatiron](https://learn.co/) - So, I am listing this one first because, well, I love Flatiron. There is a free bootcamp prep section that is a teaser for the curriculum in the actual program. I only attempted the prep course after using other more rudimentary resources.
+- [FreeCodeCamp](https://www.freecodecamp.org/) - This a great place to start! It is totally free, but they are asking for donations much more frequently than they did in the past. Still a great resource.
+
+## Paid
+
+- [Treehouse](https://teamtreehouse.com/) - This is the first service I paid for. It is very beginner friendly, but it doesn't skimp on the content. They are a bit slow in producing updated courses.

@@ -2,8 +2,9 @@
 layout: post
 title: "Start Here"
 date: 2019-01-16 13:52:32 +0000
+header-img: "img/start.jpg"
 excerpt_separator: <!--more-->
-tags: [Introduction]
+tags: [Introduction, Coding]
 permalink: start_here
 ---
 
