@@ -8,12 +8,19 @@ tags: [Introduction, Coding, Lists]
 permalink: the_list
 ---
 
-This a list of resources I have found useful while learning to code.<!--more-->I will start with the free services. Some of the services have a free portion or ask for donations. The paid section will include only those resources that require a subscription fee.
+This a list of resources I have found useful while learning to code.<!--more-->I will start with the free services. Some of the services have a free portion or ask for donations. The paid section will include only those resources that require a subscription fee. I am planning to update this post regularly. Please check back for updates.
 
 ## Free
 
-- [Flatiron](https://learn.co/) - So, I am listing this one first because, well, I love Flatiron. There is a free bootcamp prep section that is a teaser for the curriculum in the actual program. I only attempted the prep course after using other more rudimentary resources.
+### Start Here
+
+- [Flatiron](https://learn.co/) - So, I am listing this one first because, well, I love Flatiron. There is a free boot-camp prep section that is a teaser for the curriculum in the actual program. I only attempted the prep course after using other more rudimentary resources.
 - [FreeCodeCamp](https://www.freecodecamp.org/) - This a great place to start! It is totally free, but they are asking for donations much more frequently than they did in the past. Still a great resource.
+
+### Ruby
+
+- [What is ruby?](http://www.rubyist.net/~slagell/ruby/) - A guide to learning Ruby (with code examples). By Matz, the creator of Ruby. Translated into English.
+- [The guide](https://poignant.guide/) - I love this book!!!! Be sure to download the soundtrack!
 
 ## Paid
 
