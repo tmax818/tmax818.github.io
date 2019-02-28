@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Why Ruby?"
+date: "2019-02-28 09:50:22 -0800"
+header-img: "img/ruby.jpg"
+excerpt_separator: <!--more-->
+tags: [Introduction, Coding, Ruby]
+permalink: the_list
+---
+
+<!-- Photo by Chad Peltola on Unsplash -->
+
+I have to start with a confession.<!--more--> I am in love with Ruby! I am going to advocate for the notion that Ruby should be everyone's first language. I guess that makes me a Ruby evangelist! That's cool.
+
+A very appealing second option for a first language would be Python. Python and Ruby are so similar it's silly:
+
+{% highlight python %}
+print("hello world")
+{% endhighlight %}
+
+{% highlight ruby %}
+print("hello world")
+{% endhighlight %}
+
+I bounce between Ruby and Python not because of their similarities, but their main difference. Run the [repl](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) in Python and type `import this` and you get this [Easter Egg](<https://en.wikipedia.org/wiki/Easter_egg_(media)>):
+
+```Bash
+>>> import this
+>>> The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+```
+
+I draw your attention to these two lines:
+
+```Bash
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+```
+
+The Eurocentricity of this little bromide is obviously meant to be tongue-in-cheek. However, if we take it at face value, the population of the Netherlands represents about [0.22%](http://worldpopulationreview.com/countries/netherlands-population/) of the world population as of this writing. So, the "one-- and preferably only one --obvious way" to do something won't be "obvious at first" to approximately 99.78% of the population!
+
+So, unless you're part of the 0.22%, my suggestion is to learn Ruby. Otherwise, be my guest and _leren Python!_
