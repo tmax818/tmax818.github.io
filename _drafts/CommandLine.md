@@ -8,13 +8,13 @@ tags: [Terminal]
 permalink: command_line
 ---
 
-When I read the following quote, it grabbed me by the viscera and shook me. I have yet to recover. <!--more-->
+When I read the following quote, it grabbed me by the viscera and shook me like a fucking rag doll. I have yet to recover. <!--more-->
 
 > A few giant corporations have been imposing their control over most of the world's computers and deciding what you can and cannot do with them. Fortunately, people from all over the world are doing something about it. They are fighting to maintain control of their computers by writing their own software. They are building Linux.
 
 -William Shotts in [The Linux Command Line, 4th ed.]()
 
-I suppose there are people who are not moved in the least by the above quote. If you are one of those people, you can stop reading here. Thank you for your interest, you can return to your regularly scheduled social media stream. Those who are like me and find this circumstance appalling, please read on.
+I suppose there are people who are not moved in the least by the above quote. If you are one of those people, you can stop reading here. Thank you for your interest, you can return to your regularly scheduled social media stream. Those who, like me, find this circumstance appalling, please read on.
 
 I am not suggesting that every developer needs to contribute to the [Linux Kernel](https://en.wikipedia.org/wiki/Linux_kernel). However, at least basic knowledge and understanding of the command line is essential for anyone aspiring to the title of [Hacker](https://en.wikipedia.org/wiki/Hacker).
 
