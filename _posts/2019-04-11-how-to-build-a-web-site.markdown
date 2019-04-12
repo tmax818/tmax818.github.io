@@ -96,4 +96,4 @@ You did it! It may take a few minutes for the page to process.
 
 {% include image.html url="/img/day_five/end.png" description="Great Success!!" %}
 
-Congratulations on your first web site. You now have a website on the live web!
+Congratulations on your first web site. You now have a website on the live web! You can watch the video [tutorial](https://youtu.be/WrIKvc8_x1o) on YouTube!
