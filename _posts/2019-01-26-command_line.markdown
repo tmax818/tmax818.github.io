@@ -5,7 +5,7 @@ date: 2019-01-26 13:52:32 +0000
 header-img: "img/webdev.jpg"
 excerpt_separator: <!--more-->
 tags: [Terminal, Command Line, Windows]
-permalink: commandline
+permalink: command_line
 ---
 
 When I read the following quote, it grabbed me by the viscera and shook me like a rag doll. I have yet to recover: <!--more-->
