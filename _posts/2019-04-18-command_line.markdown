@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Start with the Command Line"
-date: 2019-01-26 13:52:32 +0000
+date: 2019-04-18 13:52:32 +0000
 header-img: "img/linux_tux.png"
 excerpt_separator: <!--more-->
 tags: [Terminal, Command Line, Windows]
