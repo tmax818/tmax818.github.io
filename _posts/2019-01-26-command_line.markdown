@@ -26,4 +26,6 @@ You will be doing yourself a huge favor. However, if you aspire to work for Micr
 
 There are numerous tutorials available that will show you how to set up your computer to run Linux along side you Windows operating system. I used [this](https://www.youtube.com/watch?v=x1ykDpSzpKU&t=192s) one, but there are many available.
 
-I started learning to code on Windows and I probably could have saved hours of frustration if someone had given me this advice early on. I started by installing Ubuntu along side Windows. I did all my coding on Ubuntu. I found myself booting Linux every time I turned on my machine. Eventually, like the dog shit in my backyard or the trash in the can, I disposed of Windows and my computer has never smelled, or functioned better.
+I started learning to code on Windows and I probably could have saved hours of frustration if someone had given me this advice early on. I started by installing Ubuntu along side Windows. I did all my coding on Ubuntu. I found myself booting Linux every time I turned on my machine.
+
+Some will say that in terms of privacy and advocacy for the [Free Software Movement](https://en.wikipedia.org/wiki/Free_software_movement), Ubuntu is just as bad as Windows. To these individuals I say, touche! I admit that I don't feel confident enough to drop Ubuntu yet. The resources available for Ubuntu are abundant and I feel I still need that crutch. However, I am saying that Ubuntu can be likened to training wheels that I will eventually remove.
