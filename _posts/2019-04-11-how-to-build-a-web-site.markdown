@@ -2,7 +2,7 @@
 layout: post
 title: "How to Build a Web Site"
 date: "2019-04-11 08:08:56 -0700"
-header-img: "img/webdev.jpg"
+header-img:
 excerpt_separator: <!--more-->
 tags: [180]
 permalink: day_five
