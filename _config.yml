@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: tylermaxwell661@gmail.com
 copyright_name: Tyler Maxwell
 description: > # this means to ignore newlines until "baseurl:"
-  Tyler Maxwell is a full-stack web developer in the Los Angeles area.
+  Full Stack Web Developer in the Los Angeles area.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: tmax818
 medium_username: tylermaxwell
