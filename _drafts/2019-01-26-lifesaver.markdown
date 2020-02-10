@@ -8,7 +8,7 @@ tags: [Introduction, Autobiography]
 permalink: lifesaver
 ---
 
-[Brad Traversey](https://www.traversymedia.com/) is one of the many mentors I have had that I have never met and who doesn't know that I exist.<!--more--> He did an [autobiographical video](https://www.youtube.com/watch?v=zA9krklwADI) on his YouTube channel that is the main inspiration for this post. I don't know if you will ever see this, but I have to say from the bottom of my heart, thank you Brad!
+[Brad Traversey](https://www.traversymedia.com/) is one of the many mentors I have had that I have never met and who don't know that I exist.<!--more--> He did an [autobiographical video](https://www.youtube.com/watch?v=zA9krklwADI) on his YouTube channel that is the main inspiration for this post. I don't know if you will ever see this, but I have to say from the bottom of my heart, thank you Brad!
 
 I am the quintessential introvert. Writing this post is profoundly difficult. If you have viewed Brad's video linked above, which I strongly encourage you to do, you will understand my purpose.
 
