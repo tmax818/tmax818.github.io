@@ -1,4 +1,8 @@
-* tmax818.github.io
+#+title: tmax818.github.io
+#+author: Mr. Maxwell
 
+* Chemistry
+
+* Physics
 
 
