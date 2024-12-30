@@ -3,7 +3,7 @@
 
 * Chemistry
 
-[[link][https://www.tylermaxwell.co/chemistry]]
+[[./chemistry][link]]
 
 * Physics
 
