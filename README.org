@@ -3,7 +3,6 @@
 
 * Chemistry
 
-[[./chemistry][link]]
 
 * Physics
 
